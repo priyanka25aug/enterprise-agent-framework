@@ -1,0 +1,8 @@
+.claude/
+__pycache__/
+*.pyc
+*.pyo
+.env
+audit_trail.jsonl
+*.egg-info/
+.pytest_cache/
